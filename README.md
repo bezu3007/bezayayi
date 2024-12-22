@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bezayayi
-- 👀 I’m interested in Front-End development and also computer graphics
+- 👀 I’m interested in UI/UX design, Front-End development and also computer graphics
 - 🌱 I’m currently learning my BSc in Software Engineering
 - 💞️ I’m looking for Interneships
 - 📫 you can find me in telegram https://t.me/Bezu3007
